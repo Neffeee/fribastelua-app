@@ -1,0 +1,71 @@
+#TODO ADMIN SIDE
+
+NAVBAR
+- Lisää navbaariin responsiivisuus
+
+
+KIEKOT LISTAUS
+- kiekot listauksen nappuloiden responsiivisuus
+- buttoneissa myös teksti voisi hävitä kun tarpeeksi pieni, että vain iconit jää.
+- Frontend näyttäisi 2 numeroa pilkun jälkeen, jotta myös 0 näkyy. esim 25.90.
+- Tee niin, että vain kirjautuneena näkee tuotteet.
+
+
+CRUD OMINAISUUDET
+- Muokkaus ominaisuus
+- Tuotteen poisto
+- Tuotteen lisäys
+
+
+HAKUTOIMINTO
+- Merkin mukaan esim
+- 
+
+
+DATABASE
+- Voisi lisätä onko kiekko putteri, fairway, driver vai midrange. Esim nimimeltään DiscType.
+#DONE
+Kiekkoihin voisi lisätä jossain vaiheessa Muovilaatu vaihtoehdon. Databaseen.
+
+
+
+#TODO FRONTEND SIDE
+
+
+NAVBAR
+- pitääkö linkkien fonttikokoa säätää. Voisi olla ehkä vähän isompi isommilla ruuduilla
+- Sisään kirjautuminen voisi hävitä kun tulee ahdasta. Tilalle burgerimenu.
+fixaa burgerimenu
+
+TUOTTEET
+
+- Kuinka lisätä ostoskoriin.
+- Sivusto voisi hakea vaikka 8 itemiä ja kun rullaa alas päin niin hakee seuraavat.
+
+- HAKUTOIMINTO
+- Searchinput vaihtuu  mobilen ja desktopin välillä. Jos sen saisi jotenkin niin, että pysyisi samana.
+
+FOOTER
+- Tee linkeiksi ja niin, että kun hoveraat niin tulee alleviivaus ja pieni sävyn muutos
+
+ETUSIVU
+- Lisää tekstit(nimet) ja linkki kytkökset kuviin.
+
+koulutyot
+pw 5IMPUuEP1-
+
+
+
+TÄNÄÄN
+
+- KUINKA SIIRTÄÄ DATA YKSITTÄISELLE KIEKKO SIVULLE. # DONE
+- Pieni valmistajan kuvake jotenkin ehdolliseksi, että näkyisi oikean valmistajan logo oikeassa kiekossa.
+- KUINKA LISÄTÄ ostoskoriin ja kuinka se näkyy ostoskori sivulla. # KIEKOT OSIO AIKALAILLA DONE
+- Lisää yksittäiselle sivulle tuotemäärä varastossa.
+- Voisi tehdä niin, että tarkastaa onko tuotetta tällä hetkellä "varastossa" jos löytyy voi suorittaa oston, jos ei niin ei anna. https://www.youtube.com/watch?v=shBVHDblBno
+
+
+
+### MUISTA TEHDÄ RESPONSIIVISEKSI VIELÄ ###
+- Ostoskori. #DONE
+- 
