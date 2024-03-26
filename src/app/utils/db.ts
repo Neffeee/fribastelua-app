@@ -3,10 +3,10 @@ import sql, {ConnectionPool} from 'mssql'
 
 
 const config = {
-  user: 'sa',
-  password: 'salasana123',
+  user: process.env.LOCAL_DB_USERNAME,
+  password: process.env.LOCAL_DB_PW,
   server: 'localhost', // or the IP address of your database server
-  database: 'FribasteluDB',
+  database: process.env.LOCAL_DB,
   options: {
     encrypt: false, // For local development, set this to false
     enableArithAbort: true // Required for Azure SQL Database
